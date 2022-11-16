@@ -11,7 +11,7 @@ You are able to select a heading and it will take you that section, so it is int
 ## How to access the project
 
 My project can be cloned from my repository by selecting following link:
-httpos//github.com/SHAJLP/Alien-matter
+https//github.com/SHAJLP/Alien-matter
 
 You are able to clone the project to your own personal repo
 
