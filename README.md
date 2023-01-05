@@ -15,3 +15,15 @@ https//github.com/SHAJLP/PORTFOLIO
 
 You are able to clone the project to your own personal repo
 
+LINKS PROJECTS
+
+](https://shajlp.github.io/Animl-Project/)
+[
+](https://github.com/AlastairHafield/Animl-Project.git)
+
+Deployed links
+
+[
+[
+](https://alastairhafield.github.io/home-page-2/home.html)]
+(https://alastairhafield.github.io/Animl-Project/Quiz.html)
