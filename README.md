@@ -71,3 +71,7 @@ Deployed links
 
 [
 ](https://alastairhafield.github.io/Animl-Project/home.html)
+
+ https://shajlp.github.io/StuddyBuddy-Project/
+ 
+ https://studdy-buddy1.herokuapp.com/ 
